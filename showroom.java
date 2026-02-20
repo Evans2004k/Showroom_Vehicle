@@ -1,3 +1,6 @@
+//NAME:Evans mawira
+//Reg:CT100/G/21515/24
+
 import java.util.Scanner;
 
 // Base class
